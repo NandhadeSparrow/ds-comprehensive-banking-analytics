@@ -1,10 +1,11 @@
-# YouTube Data Harvesting and Warehousing using SQL and Streamlit
+# Comprehensive Banking Analytics
 
 ## Description
-A Streamlit application that allows users to access and analyze data from multiple YouTube channels.
-
+- The objective of this project is to leverage advanced data analytics techniques, including classification, regression, and clustering, to extract valuable insights and enhance decision-making processes within the banking sector.
+- The project aims to address various aspects of banking operations, such as customer segmentation, credit risk assessment, and performance prediction.
+- This  project aims to demonstrate the power of advanced analytics in optimizing various facets of banking operations, ultimately contributing to the overall success and sustainability of the financial institution
 ## Table of Contents
-- [YouTube Data Harvesting and Warehousing using SQL and Streamlit](#youtube-data-harvesting-and-warehousing-using-sql-and-streamlit)
+- [Comprehensive Banking Analytics](#comprehensive-banking-analytics)
   - [Description](#description)
   - [Table of Contents](#table-of-contents)
   - [Setup](#setup)
@@ -20,9 +21,9 @@ A Streamlit application that allows users to access and analyze data from multip
   - [Contact](#contact)
 ## Setup
 ### Softwares needed
-1. Jupyter Notebook
+1. Jupyter Notebook / Any Notebook IDE
 2. Python
-3. Git (with git bash)
+3. Git (with git bash) / Download file
 
 ### Code
 
